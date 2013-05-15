@@ -1,6 +1,6 @@
 ##Suffix lemmatizer
-##Copyright (C) 2013 Timo Petmanson
-##License: GNU GPLv3
+Copyright (C) 2013 Timo Petmanson
+License: GNU GPLv3
 
 This library/program is a statistical lemmatizer learning most probable
 inflected word form -> lemmatized word form suffix replacements.
