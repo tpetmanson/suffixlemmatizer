@@ -54,6 +54,6 @@ them, it may lower the classification accuracy or make the program crash.
 
 ### Pre-trained model files
 
-You can download several pre-trained models from:
-https://github.com/brainscauseminds/suffixlemmatizer
+You can download pre-trained model for Estonian from:
+http://www.brainscauseminds.com/uploadedfiles/models.tar.gz
 
