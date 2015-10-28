@@ -1,6 +1,6 @@
 ##Suffix lemmatizer
-Copyright (C) 2013 Timo Petmanson
-License: GNU GPLv3
+
+THIS LIBRARY IS DEPRECATED AND REPLACED BY .... TODO INSERT LINK HERE ...
 
 This library/program is a statistical lemmatizer learning most probable
 inflected word form -> lemmatized word form suffix replacements.
@@ -51,9 +51,3 @@ and the error will pass silently, unless tokens could not be parsed.
 - The program will expect all input to be in utf-8 encoding.
 - Program uses characters '$' and \t internally, so if your strings contain
 them, it may lower the classification accuracy or make the program crash.
-
-### Pre-trained model files
-
-You can download pre-trained model for Estonian from:
-http://www.brainscauseminds.com/uploadedfiles/models.tar.gz
-
