@@ -1,6 +1,6 @@
 ##Suffix lemmatizer
 
-THIS LIBRARY IS DEPRECATED AND REPLACED BY .... TODO INSERT LINK HERE ...
+THIS LIBRARY IS DEPRECATED AND REPLACED BY https://github.com/estnltk/suffix-lemmatizer
 
 This library/program is a statistical lemmatizer learning most probable
 inflected word form -> lemmatized word form suffix replacements.
